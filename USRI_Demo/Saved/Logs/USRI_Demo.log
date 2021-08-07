@@ -19307,3 +19307,468 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.07-20.58.48:571][392]LogPlayLevel: Display: Destroying online subsystem :Context_62
 [2021.08.07-20.58.53:819][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_A19)
 [2021.08.07-20.58.54:408][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_A27)
+[2021.08.07-20.59.47:310][516]LogSlate: Window 'Message' being destroyed
+[2021.08.07-20.59.47:320][516]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/BlenderData/Materials/Mat2.Mat2
+(Selecting 'No' will cause all changes to be lost!)
+[2021.08.07-20.59.50:802][520]LogSlate: Window 'Message' being destroyed
+[2021.08.07-20.59.50:809][520]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/BlenderData/Materials/Mat2.Mat2
+(Selecting 'No' will cause all changes to be lost!)
+[2021.08.07-20.59.51:208][520]LogMaterial: Display: Missing cached shader map for material Mat2, compiling. 
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.08.07-20.59.51:228][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.08.07-20.59.51:265][520]LogMaterial: Display: Missing cached shader map for material Mat2, compiling. 
+[2021.08.07-20.59.51:284][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.07-20.59.51:292][520]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.07-20.59.51:802][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2021.08.07-20.59.51:802][520]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.08.07-20.59.51:802][520]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2021.08.07-20.59.51:803][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.08.07-20.59.51:803][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.08.07-20.59.51:803][520]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.08.07-20.59.51:806][520]TextureStreamingBuild: Display: Compiling optional shaders took 0.519 seconds.
+[2021.08.07-20.59.51:811][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.08.07-20.59.51:811][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.07-20.59.51:838][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.08.07-20.59.51:982][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.08.07-20.59.51:983][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.08.07-20.59.52:007][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.08.07-20.59.52:007][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.08.07-20.59.52:023][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.08.07-20.59.54:999][520]LogSlate: Window 'Message' being destroyed
+[2021.08.07-20.59.55:013][520]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/BlenderData/Materials/Mat3.Mat3
+(Selecting 'No' will cause all changes to be lost!)
+[2021.08.07-20.59.55:414][520]LogMaterial: Display: Missing cached shader map for material Mat3, compiling. 
+[2021.08.07-20.59.55:444][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.08.07-20.59.55:445][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.08.07-20.59.55:454][520]LogMaterial: Display: Missing cached shader map for material Mat3, compiling. 
+[2021.08.07-20.59.55:468][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2021.08.07-20.59.55:468][520]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2021.08.07-20.59.55:468][520]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2021.08.07-20.59.55:476][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.07-20.59.55:482][520]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.07-20.59.56:048][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.08.07-20.59.56:048][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.08.07-20.59.56:048][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.08.07-20.59.56:048][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.08.07-20.59.56:048][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.08.07-20.59.56:048][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.08.07-20.59.56:159][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.08.07-20.59.56:160][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2021.08.07-20.59.56:162][520]TextureStreamingBuild: Display: Compiling optional shaders took 0.685 seconds.
+[2021.08.07-20.59.56:167][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.07-20.59.58:750][520]LogSlate: Window 'Message' being destroyed
+[2021.08.07-20.59.58:767][520]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/BlenderData/Materials/Mat4.Mat4
+(Selecting 'No' will cause all changes to be lost!)
+[2021.08.07-20.59.59:168][520]LogMaterial: Display: Missing cached shader map for material Mat4, compiling. 
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.08.07-20.59.59:234][520]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.08.07-20.59.59:249][520]LogMaterial: Display: Missing cached shader map for material Mat4, compiling. 
+[2021.08.07-20.59.59:289][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.07-20.59.59:295][520]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 38
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 36
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 33
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2021.08.07-20.59.59:861][520]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2021.08.07-21.00.00:148][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 28
+[2021.08.07-21.00.00:148][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 25
+[2021.08.07-21.00.00:148][520]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2021.08.07-21.00.00:151][520]TextureStreamingBuild: Display: Compiling optional shaders took 0.861 seconds.
+[2021.08.07-21.00.00:157][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.07-21.00.00:165][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2021.08.07-21.00.00:229][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2021.08.07-21.00.00:230][520]LogSlate: Window 'Mat4' being destroyed
+[2021.08.07-21.00.00:233][520]LogSlate: Window 'Mat4' being destroyed
+[2021.08.07-21.00.00:249][520]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-21.00.00:249][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.08.07-21.00.00:249][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-21.00.00:282][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.08.07-21.00.00:282][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.08.07-21.00.00:292][520]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-21.00.00:292][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-21.00.00:301][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.08.07-21.00.00:333][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.08.07-21.00.00:333][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.08.07-21.00.00:346][520]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-21.00.00:346][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-21.00.00:393][520]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-21.00.00:393][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-21.00.00:572][521]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2021.08.07-21.00.00:781][522]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.08.07-21.00.00:934][529]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.08.07-21.00.01:010][533]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.08.07-21.00.01:075][536]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.08.07-21.00.01:096][537]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.08.07-21.00.01:118][538]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.08.07-21.00.09:897][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorDiv_A15)
+[2021.08.07-21.00.10:799][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_A)
+[2021.08.07-21.00.12:250][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (consommables01_silasticLoop)
+[2021.08.07-21.00.12:985][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_A19)
+[2021.08.07-21.01.03:192][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.08.07-21.01.03:332][664]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/DemoRoom_Auto66EC1A59E42D8A82C62F594959F520A4C.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Autosaves/Game/Assets/MapData/Maps/DemoRoom_Auto6.umap'
+[2021.08.07-21.01.03:334][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/MapData/Maps/DemoRoom' took 0.147
+[2021.08.07-21.01.03:334][664]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
+[2021.08.07-21.01.03:334][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/BlenderData/Materials/Mat2] ([1] browsable assets)...
+[2021.08.07-21.01.03:343][664]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/BlenderData/Materials/Mat2.Mat2]
+[2021.08.07-21.01.03:343][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/BlenderData/Materials/Mat2]
+[2021.08.07-21.01.03:348][664]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Mat2_Auto6FDDCE43249A2B59F19644E84AC9DE619.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Autosaves/Game/Assets/BlenderData/Materials/Mat2_Auto6.uasset'
+[2021.08.07-21.01.03:349][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/BlenderData/Materials/Mat3] ([1] browsable assets)...
+[2021.08.07-21.01.03:356][664]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/BlenderData/Materials/Mat3.Mat3]
+[2021.08.07-21.01.03:356][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/BlenderData/Materials/Mat3]
+[2021.08.07-21.01.03:361][664]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Mat3_Auto60E9FAA72490B91768D8DD6BD7A270C0D.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Autosaves/Game/Assets/BlenderData/Materials/Mat3_Auto6.uasset'
+[2021.08.07-21.01.03:362][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/BlenderData/Materials/Mat4] ([1] browsable assets)...
+[2021.08.07-21.01.03:370][664]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/BlenderData/Materials/Mat4.Mat4]
+[2021.08.07-21.01.03:370][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/BlenderData/Materials/Mat4]
+[2021.08.07-21.01.03:375][664]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Mat4_Auto665E21D33495C084C05E3BE85A8C58D60.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Autosaves/Game/Assets/BlenderData/Materials/Mat4_Auto6.uasset'
+[2021.08.07-21.01.03:376][664]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.08.07-21.12.09:325][866]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{773e61a0-7a2e-4915-b623-6977386b2a17}.
+[2021.08.07-21.12.09:325][866]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 4: BackLeft
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 5: BackRight
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 6: SideLeft
+[2021.08.07-21.12.09:330][866]LogAudioMixer: Display: 7: SideRight
+[2021.08.07-21.21.20:965][520]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{aef9be71-9560-4db5-91be-4876ae033bef}.
+[2021.08.07-21.21.20:965][520]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.07-21.21.21:265][520]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-21.21.21:265][520]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-21.22.19:036][694]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{773e61a0-7a2e-4915-b623-6977386b2a17}.
+[2021.08.07-21.22.19:036][694]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 4: BackLeft
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 5: BackRight
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 6: SideLeft
+[2021.08.07-21.22.19:093][694]LogAudioMixer: Display: 7: SideRight
+[2021.08.07-23.47.06:764][744]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{aef9be71-9560-4db5-91be-4876ae033bef}.
+[2021.08.07-23.47.06:764][744]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.07-23.47.06:951][744]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-23.47.06:951][744]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-23.48.00:201][415]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-23.48.00:206][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-23.48.00:206][415]PIE: New page: PIE session: DemoRoom (Aug. 7, 2021, 3:48:00 p.m.)
+[2021.08.07-23.48.00:236][415]LogPlayLevel: Creating play world package: /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.48.00:256][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020165s)
+[2021.08.07-23.48.00:257][415]LogAIModule: Creating AISystem for world DemoRoom
+[2021.08.07-23.48.00:257][415]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2021.08.07-23.48.00:257][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MapData/Maps/DemoRoom.DemoRoom to /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom (0.021280s)
+[2021.08.07-23.48.00:269][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.07-23.48.00:278][415]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-23.48.00:278][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-23.48.00:278][415]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-23.48.00:278][415]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-23.48.00:282][415]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-23.48.00:282][415]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-23.48.00:293][415]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.07-23.48.00:293][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-23.48.00:293][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-23.48.00:293][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-23.48.00:294][415]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-23.48.00:294][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-23.48.00:294][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-23.48.00:306][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-23.48.00:306][415]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-23.48.00:306][415]LogInit: FAudioDevice initialized.
+[2021.08.07-23.48.00:306][415]LogAudio: Display: Audio Device (ID: 50) registered with world 'DemoRoom'.
+[2021.08.07-23.48.00:313][415]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-23.48.00:319][415]LogWorld: Bringing World /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom up for play (max tick rate 0) at 2021.08.07-19.48.00
+[2021.08.07-23.48.00:320][415]LogWorld: Bringing up level for play took: 0.006053
+[2021.08.07-23.48.00:320][415]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.08.07-23.48.00:323][415]PIE: Server logged in
+[2021.08.07-23.48.00:324][415]PIE: Play in editor total start time 0.119 seconds.
+[2021.08.07-23.48.26:586][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.48.26:586][450]LogWorld: BeginTearingDown for /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.48.26:587][450]LogWorld: UWorld::CleanupWorld for DemoRoom, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-23.48.26:588][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.48.26:599][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-23.48.26:613][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.48.26:619][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-23.48.26:619][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.48.26:620][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.48.26:633][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.48.26:635][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.07-23.48.26:680][451]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.08.07-23.48.28:477][628]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-23.48.28:482][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-23.48.28:482][628]PIE: New page: PIE session: DemoRoom (Aug. 7, 2021, 3:48:28 p.m.)
+[2021.08.07-23.48.28:506][628]LogPlayLevel: Creating play world package: /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.48.28:526][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020458s)
+[2021.08.07-23.48.28:527][628]LogAIModule: Creating AISystem for world DemoRoom
+[2021.08.07-23.48.28:527][628]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2021.08.07-23.48.28:527][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MapData/Maps/DemoRoom.DemoRoom to /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom (0.021456s)
+[2021.08.07-23.48.28:531][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.07-23.48.28:532][628]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-23.48.28:532][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-23.48.28:532][628]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-23.48.28:532][628]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-23.48.28:536][628]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-23.48.28:536][628]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-23.48.28:546][628]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.07-23.48.28:546][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-23.48.28:546][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-23.48.28:546][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-23.48.28:547][628]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-23.48.28:547][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-23.48.28:547][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-23.48.28:558][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-23.48.28:558][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-23.48.28:558][628]LogInit: FAudioDevice initialized.
+[2021.08.07-23.48.28:558][628]LogAudio: Display: Audio Device (ID: 51) registered with world 'DemoRoom'.
+[2021.08.07-23.48.28:570][628]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-23.48.28:577][628]LogWorld: Bringing World /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom up for play (max tick rate 0) at 2021.08.07-19.48.28
+[2021.08.07-23.48.28:577][628]LogWorld: Bringing up level for play took: 0.006118
+[2021.08.07-23.48.28:577][628]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.08.07-23.48.28:580][628]PIE: Server logged in
+[2021.08.07-23.48.28:581][628]PIE: Play in editor total start time 0.1 seconds.
+[2021.08.07-23.49.16:646][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.49.16:646][ 63]LogWorld: BeginTearingDown for /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.49.16:646][ 63]LogWorld: UWorld::CleanupWorld for DemoRoom, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-23.49.16:648][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.49.16:658][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-23.49.16:671][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.49.16:674][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.49.16:676][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.49.16:677][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.49.16:693][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.07-23.49.16:737][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.08.07-23.49.18:231][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Tissue2)
+[2021.08.07-23.49.25:342][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Brain)
+[2021.08.07-23.49.28:275][209]Cmd: TRANSACTION UNDO
+[2021.08.07-23.49.28:275][209]LogEditorTransaction: Undo Move Actors
+[2021.08.07-23.49.29:096][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_A_Glass6)
+[2021.08.07-23.49.30:023][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Tissue2)
+[2021.08.07-23.49.33:833][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_A11)
+[2021.08.07-23.49.34:664][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Brain)
+[2021.08.07-23.49.35:226][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_A3)
+[2021.08.07-23.49.35:849][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_A38)
+[2021.08.07-23.49.37:607][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.07-23.49.37:612][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-23.49.37:612][ 53]PIE: New page: PIE session: DemoRoom (Aug. 7, 2021, 3:49:37 p.m.)
+[2021.08.07-23.49.37:645][ 53]LogPlayLevel: Creating play world package: /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.49.37:665][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020184s)
+[2021.08.07-23.49.37:666][ 53]LogAIModule: Creating AISystem for world DemoRoom
+[2021.08.07-23.49.37:666][ 53]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2021.08.07-23.49.37:666][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MapData/Maps/DemoRoom.DemoRoom to /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom (0.021224s)
+[2021.08.07-23.49.37:670][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.07-23.49.37:674][ 53]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-23.49.37:674][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-23.49.37:674][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-23.49.37:675][ 53]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-23.49.37:675][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-23.49.37:678][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-23.49.37:678][ 53]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-23.49.37:688][ 53]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.07-23.49.37:688][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-23.49.37:689][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-23.49.37:689][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-23.49.37:689][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-23.49.37:689][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-23.49.37:689][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-23.49.37:701][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-23.49.37:702][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-23.49.37:702][ 53]LogInit: FAudioDevice initialized.
+[2021.08.07-23.49.37:702][ 53]LogAudio: Display: Audio Device (ID: 52) registered with world 'DemoRoom'.
+[2021.08.07-23.49.37:708][ 53]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-23.49.37:714][ 53]LogWorld: Bringing World /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom up for play (max tick rate 0) at 2021.08.07-19.49.37
+[2021.08.07-23.49.37:714][ 53]LogWorld: Bringing up level for play took: 0.006097
+[2021.08.07-23.49.37:714][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.08.07-23.49.37:717][ 53]PIE: Server logged in
+[2021.08.07-23.49.37:718][ 53]PIE: Play in editor total start time 0.107 seconds.
+[2021.08.07-23.50.52:366][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.50.52:366][373]LogWorld: BeginTearingDown for /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.50.52:366][373]LogWorld: UWorld::CleanupWorld for DemoRoom, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-23.50.52:367][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.50.52:377][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-23.50.52:391][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.50.52:395][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.50.52:395][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.50.52:396][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.50.52:413][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.07-23.50.52:456][374]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.08.07-23.50.56:643][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-23.50.56:644][726]PIE: New page: PIE session: DemoRoom (Aug. 7, 2021, 3:50:56 p.m.)
+[2021.08.07-23.50.56:644][726]LogPlayLevel: Creating play world package: /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.50.56:665][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021011s)
+[2021.08.07-23.50.56:665][726]LogAIModule: Creating AISystem for world DemoRoom
+[2021.08.07-23.50.56:666][726]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2021.08.07-23.50.56:666][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MapData/Maps/DemoRoom.DemoRoom to /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom (0.022018s)
+[2021.08.07-23.50.56:669][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.07-23.50.56:671][726]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-23.50.56:671][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-23.50.56:671][726]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-23.50.56:671][726]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-23.50.56:676][726]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-23.50.56:676][726]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-23.50.56:687][726]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.07-23.50.56:687][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-23.50.56:687][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-23.50.56:687][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-23.50.56:687][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-23.50.56:687][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-23.50.56:687][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-23.50.56:700][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-23.50.56:700][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-23.50.56:700][726]LogInit: FAudioDevice initialized.
+[2021.08.07-23.50.56:700][726]LogAudio: Display: Audio Device (ID: 53) registered with world 'DemoRoom'.
+[2021.08.07-23.50.56:757][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.50.56:758][726]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-23.50.56:766][726]LogWorld: Bringing World /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom up for play (max tick rate 0) at 2021.08.07-19.50.56
+[2021.08.07-23.50.56:766][726]LogWorld: Bringing up level for play took: 0.007283
+[2021.08.07-23.50.56:766][726]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.08.07-23.50.56:775][726]PIE: Server logged in
+[2021.08.07-23.50.56:776][726]PIE: Play in editor total start time 0.133 seconds.
+[2021.08.07-23.50.58:944][966]LogRenderer: Reallocating scene render targets to support 2560x1416 Format 10 NumSamples 1 (Frame:241).
+[2021.08.07-23.51.21:655][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.51.21:655][207]LogWorld: BeginTearingDown for /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.51.21:655][207]LogSlate: Window 'USRI_Demo Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.07-23.51.21:681][207]LogWorld: UWorld::CleanupWorld for DemoRoom, bSessionEnded=true, bCleanupResources=true
+[2021.08.07-23.51.21:682][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.51.21:690][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.07-23.51.21:704][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.07-23.51.21:709][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.07-23.51.21:709][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.51.21:710][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.07-23.51.21:725][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.07-23.51.21:753][208]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.08.07-23.51.32:711][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (suctionTubeCannula_Suction_tube_inPackaging)
+[2021.08.07-23.51.33:622][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_A)
+[2021.08.07-23.52.06:908][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_A3)
+[2021.08.07-23.52.08:787][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_A12)
+[2021.08.07-23.52.12:154][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_B_Glass3)
+[2021.08.07-23.52.12:491][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Tissue2)
+[2021.08.07-23.52.53:511][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.07-23.52.53:648][133]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/DemoRoom_Auto7FB5054EC4EC88564F947DA900D46E462.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/Autosaves/Game/Assets/MapData/Maps/DemoRoom_Auto7.umap'
+[2021.08.07-23.52.53:649][133]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/MapData/Maps/DemoRoom' took 0.142
+[2021.08.07-23.52.53:649][133]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2021.08.07-23.53.01:111][386]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.07-23.53.01:116][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.07-23.53.01:116][386]PIE: New page: PIE session: DemoRoom (Aug. 7, 2021, 3:53:01 p.m.)
+[2021.08.07-23.53.01:116][386]LogPlayLevel: Creating play world package: /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom
+[2021.08.07-23.53.01:136][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020061s)
+[2021.08.07-23.53.01:137][386]LogAIModule: Creating AISystem for world DemoRoom
+[2021.08.07-23.53.01:137][386]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2021.08.07-23.53.01:137][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/MapData/Maps/DemoRoom.DemoRoom to /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom (0.021055s)
+[2021.08.07-23.53.01:140][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.07-23.53.01:143][386]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.07-23.53.01:143][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.07-23.53.01:143][386]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.07-23.53.01:143][386]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.07-23.53.01:147][386]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.07-23.53.01:147][386]LogAudioMixer: Display: 1: FrontRight
+[2021.08.07-23.53.01:158][386]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.07-23.53.01:158][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.07-23.53.01:158][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.07-23.53.01:158][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.07-23.53.01:159][386]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.07-23.53.01:159][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.07-23.53.01:159][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.07-23.53.01:172][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.07-23.53.01:172][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.07-23.53.01:172][386]LogInit: FAudioDevice initialized.
+[2021.08.07-23.53.01:172][386]LogAudio: Display: Audio Device (ID: 54) registered with world 'DemoRoom'.
+[2021.08.07-23.53.01:229][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.07-23.53.01:229][386]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.07-23.53.01:236][386]LogWorld: Bringing World /Game/Assets/MapData/Maps/UEDPIE_0_DemoRoom.DemoRoom up for play (max tick rate 0) at 2021.08.07-19.53.01
+[2021.08.07-23.53.01:236][386]LogWorld: Bringing up level for play took: 0.006911
+[2021.08.07-23.53.01:236][386]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.08.07-23.53.01:242][386]PIE: Server logged in
+[2021.08.07-23.53.01:243][386]PIE: Play in editor total start time 0.127 seconds.
+[2021.08.07-23.54.11:331][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Brain)
+[2021.08.07-23.54.11:746][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Tissue2)
+[2021.08.07-23.54.12:658][389]Cmd: DELETE
+[2021.08.07-23.54.12:658][389]Cmd: ACTOR DELETE
+[2021.08.07-23.54.12:667][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.07-23.54.12:670][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.07-23.54.12:672][389]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.08.07-23.54.13:665][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Brain)
+[2021.08.07-23.54.19:796][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brain_Segmentation_Tissue)
+[2021.08.07-23.54.28:341][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorDiv_A16)
+[2021.08.07-23.55.37:557][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.07-23.55.37:686][661]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/DemoRoomA164732443F84C8D33DF238CA38BCB16.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Content/Assets/MapData/Maps/DemoRoom.umap'
+[2021.08.07-23.55.37:782][661]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Saved/DemoRoom_BuiltDataFD444F434D4640EC48930F965219E6E0.tmp' to 'C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/Content/Assets/MapData/Maps/DemoRoom_BuiltData.uasset'
+[2021.08.07-23.55.37:790][661]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.07-23.55.37:790][661]LogContentValidation: Display: Validating World /Game/Assets/MapData/Maps/DemoRoom.DemoRoom
+[2021.08.07-23.55.37:790][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/MapData/Maps/DemoRoom_BuiltData.DemoRoom_BuiltData
+[2021.08.07-23.56.03:089][352]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2021.08.07-23.56.03:831][356]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/ -install=C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/USRI_Demo.zip
+[2021.08.07-23.56.05:839][362]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2021.08.07-23.56.05:839][362]UATHelper: Zip Project Task (Windows): Project directory: C:\Users\YZX06\Documents\GitHub\2021-USRI-Demo\USRI_Demo
+[2021.08.07-23.56.05:839][362]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/YZX06/Documents/GitHub/2021-USRI-Demo/USRI_Demo/USRI_Demo.zip
+[2021.08.07-23.56.05:839][362]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2021.08.07-23.56.11:867][618]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2021.08.07-23.56.11:867][618]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2021.08.07-23.56.11:870][618]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
